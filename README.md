@@ -1,0 +1,2 @@
+# MindCache
+Local Mind Cache
